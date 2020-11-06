@@ -1,0 +1,5 @@
+body{background-image: url(Background.png); background-size:cover;}
+p2{color: white;}
+li{color:white;}
+@media screen and (max-width:650px)
+    
